@@ -10,3 +10,6 @@
 [submodule "University-FIT2004-Labs"]
 	path = University-FIT2004-Labs
 	url = https://github.com/PatrickShaw/University-FIT2004-Labs.git
+[submodule "University-FIT3042-Assignment1"]
+	path = University-FIT3042-Assignment1
+	url = https://github.com/PatrickShaw/University-FIT3042-Assignment1.git
