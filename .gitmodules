@@ -10,3 +10,12 @@
 [submodule "University-FIT2004-Labs"]
 	path = University-FIT2004-Labs
 	url = https://github.com/PatrickShaw/University-FIT2004-Labs.git
+[submodule "University-FIT2070-Assignment3"]
+	path = University-FIT2070-Assignment3
+	url = https://github.com/PatrickShaw/University-FIT2070-Assignment3.git
+[submodule "University-FIT2070-Assignment2"]
+	path = University-FIT2070-Assignment2
+	url = https://github.com/PatrickShaw/University-FIT2070-Assignment2.git
+[submodule "University-FIT2070-Assignment1"]
+	path = University-FIT2070-Assignment1
+	url = https://github.com/PatrickShaw/University-FIT2070-Assignment1.git
